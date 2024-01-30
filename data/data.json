@@ -1,0 +1,303 @@
+{
+    "browsers": [
+        {
+            "name": "Firefox Dev",
+            "link": "https://www.mozilla.org/ru/firefox/developer/",
+            "img": "./img/firefoxdev.svg"
+        },
+        {
+            "name": "Chrome",
+            "link": "https://www.google.com/intl/ru_ru/chrome/",
+            "img": "./img/chrome.svg"
+        },
+        {
+            "name": "Yandex",
+            "link": "https://browser.yandex.ru/",
+            "img": "./img/yandex.svg"
+        },
+        {
+            "name": "Firefox",
+            "link": "https://www.mozilla.org/ru/firefox/",
+            "img": "./img/firefox.svg"
+        },
+        {
+            "name": "Opera",
+            "link": "https://www.opera.com/ru",
+            "img": "./img/opera.svg"
+        },
+        {
+            "name": "Mathon",
+            "link": "https://www.maxthon.com/",
+            "img": "./img/maxthon.svg"
+        },
+        {
+            "name": "Chrome dev",
+            "link": "https://www.google.com/intl/ru/chrome/dev/",
+            "img": "./img/chromedev.svg"
+        },
+        {
+            "name": "Opera GX",
+            "link": "https://www.opera.com/ru/gx",
+            "img": "./img/operagx.svg"
+        }
+    ],
+    "system": [
+        {
+            "name": "DirectX",
+            "link": "https://www.microsoft.com/RU-RU/download/details.aspx?id=35",
+            "img": "./img/directx.svg"
+        },
+        {
+            "name": "Visual C++",
+            "link": "https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/",
+            "img": "./img/visualc.svg"
+        },
+        {
+            "name": "Ccleaner",
+            "link": "https://www.ccleaner.com/ru-ru/ccleaner/download",
+            "img": "./img/ccleaner.svg"
+        },
+        {
+            "name": "7-zip",
+            "link": "https://www.7-zip.org/",
+            "img": "./img/7zip.svg"
+        },
+        {
+            "name": "Unchecky",
+            "link": "https://unchecky.com/",
+            "img": "./img/unchecky.png"
+        },
+        {
+            "name": "Soft orginizer",
+            "link": "https://www.chemtable.com/ru/soft-organizer.htm",
+            "img": "./img/softorginizer.png"
+        },
+        {
+            "name": "Search tools",
+            "link": "https://www.voidtools.com/ru-ru/downloads/",
+            "img": "./img/search.png"
+        },
+        {
+            "name": "Nvidia",
+            "link": "https://www.nvidia.ru/Download/index.aspx?lang=ru",
+            "img": "./img/nvidia.svg"
+        },
+        {
+            "name": "Minibin",
+            "link": "https://minibin.ru.uptodown.com/windows",
+            "img": "./img/minibin.svg"
+        },
+        {
+            "name": "Java Runtime Environment",
+            "link": "https://www.java.com/ru/download/manual.jsp",
+            "img": "./img/java.svg"
+        },
+        {
+            "name": "Microsoft Build Tools 2015",
+            "link": "https://www.microsoft.com/ru-ru/download/details.aspx?id=48159",
+            "img": "./img/build_tools.png"
+        },
+        {
+            "name": "Microsoft .NET Framework",
+            "link": "https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-автономный-установщик-для-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0",
+            "img": "./img/net_framework.svg"
+        },
+        {
+            "name": "Victoria HDD/SSD",
+            "link": "https://hdd.by/victoria/",
+            "img": "./img/victoria.png"
+        }
+    ],
+    "media": [
+        {
+            "name": "K-lite",
+            "link": "https://codecguide.com/download_kl.htm",
+            "img": "./img/klite.png"
+        },
+        {
+            "name": "Pot Player",
+            "link": "https://potplayer.daum.net/",
+            "img": "./img/potplayer.png"
+        },
+        {
+            "name": "Aimp",
+            "link": "https://www.aimp.ru/?do=download&os=windows",
+            "img": "./img/aimp.png"
+        },
+        {
+            "name": "Audacity",
+            "link": "https://www.audacityteam.org/download/windows/",
+            "img": "./img/audacity.svg"
+        },
+        {
+            "name": "Svg preview",
+            "link": "https://github.com/tibold/svg-explorer-extension/releases",
+            "img": "./img/svg.svg"
+        },
+        {
+            "name": "Lightshot",
+            "link": "https://app.prntscr.com/ru/",
+            "img": "./img/lightshot.png"
+        },
+        {
+            "name": "OpenOffice",
+            "link": "https://www.openoffice.org/ru/",
+            "img": "./img/openoffice.svg"
+        }
+    ],
+    "design": [
+        {
+            "name": "Blender",
+            "link": "https://www.blender.org/",
+            "img": "./img/blender.svg"
+        },
+        {
+            "name": "GIMP",
+            "link": "https://www.gimp.org/",
+            "img": "./img/gimp.svg"
+        },
+        {
+            "name": "Figma",
+            "link": "https://www.figma.com/",
+            "img": "./img/figma.svg"
+        }
+    ],
+    "dev": [
+        {
+            "name": "Verge3D",
+            "link": "https://www.soft8soft.com/ru/%d1%81%d0%ba%d0%b0%d1%87%d0%b0%d1%82%d1%8c-verge3d/",
+            "img": "./img/verge3d.png"
+        },
+        {
+            "name": "Open server",
+            "link": "https://ospanel.io/download/",
+            "img": "./img/openserver.png"
+        },
+        {
+            "name": "XAMPP",
+            "link": "https://www.apachefriends.org/ru/index.html",
+            "img": "./img/xampp.svg"
+        },
+        {
+            "name": "Node",
+            "link": "https://nodejs.org/en/",
+            "img": "./img/node.svg"
+        },
+        {
+            "name": "Sublime text",
+            "link": "https://www.sublimetext.com/",
+            "img": "./img/sublime.svg"
+        },
+        {
+            "name": "GIT",
+            "link": "https://git-scm.com/",
+            "img": "./img/git.svg"
+        },
+        {
+            "name": "Notepad++",
+            "link": "https://notepad-plus-plus.org/downloads/",
+            "img": "./img/notepad.svg"
+        },
+        {
+            "name": "Visual Code",
+            "link": "https://code.visualstudio.com/",
+            "img": "./img/visualcode.svg"
+        },
+        {
+            "name": "Python",
+            "link": "https://www.python.org/downloads/",
+            "img": "./img/python.svg"
+        }
+    ],
+    "network": [
+        {
+            "name": "Filezilla",
+            "link": "https://filezilla.ru/",
+            "img": "./img/filezilla.svg"
+        },
+        {
+            "name": "Qbittorent",
+            "link": "https://www.qbittorrent.org/download.php",
+            "img": "./img/qbittorent.svg"
+        },
+        {
+            "name": "Telegram",
+            "link": "https://desktop.telegram.org/",
+            "img": "./img/telegram.svg"
+        },
+        {
+            "name": "Whatsapp",
+            "link": "https://www.whatsapp.com/download/",
+            "img": "./img/whatsapp.svg"
+        },
+        {
+            "name": "Vk",
+            "link": "https://vk.com/landings/desktop_messenger",
+            "img": "./img/vk.svg"
+        }
+    ],
+    "benchmarks": [
+        {
+            "name": "HWinfo",
+            "link": "https://www.hwinfo.com/download/",
+            "img": "./img/hwinfo.svg"
+        },
+        {
+            "name": "GPU-Z",
+            "link": "https://www.techpowerup.com/gpuz/",
+            "img": "./img/gpuz.png"
+        },
+        {
+            "name": "CPU-Z",
+            "link": "https://www.cpuid.com/softwares/cpu-z.html",
+            "img": "./img/cpuz.svg"
+        },
+        {
+            "name": "HWmonitor",
+            "link": "https://www.cpuid.com/softwares/hwmonitor.html",
+            "img": "./img/hwmonitor.png"
+        },
+        {
+            "name": "Powermax",
+            "link": "https://www.cpuid.com/softwares/powermax.html",
+            "img": "./img/powermax.png"
+        },
+        {
+            "name": "OCC",
+            "link": "https://www.ocbase.com/",
+            "img": "./img/occt.png"
+        },
+        {
+            "name": "Afterburner",
+            "link": "https://ru.msi.com/page/Afterburner",
+            "img": "./img/afterburner.png"
+        },
+        {
+            "name": "Furmark",
+            "link": "https://geeks3d.com/furmark/",
+            "img": "./img/furmark.png"
+        },
+        {
+            "name": "Crystalmark",
+            "link": "https://crystalmark.info/en/software/crystaldiskinfo/",
+            "img": "./img/crystalmark.png"
+        }
+    ],
+    "games": [
+        {
+            "name": "Waface",
+            "link": "https://ru.warface.com/",
+            "img": "./img/warface.svg"
+        },
+        {
+            "name": "Steam",
+            "link": "https://store.steampowered.com/",
+            "img": "./img/steam.svg"
+        },
+        {
+            "name": "Epic Games",
+            "link": "https://store.epicgames.com/ru/",
+            "img": "./img/epicgames.svg"
+        }
+    ]
+}
